@@ -1,0 +1,112 @@
+[
+  {
+    "ticks_ran": 2392,
+    "final_pop": 0,
+    "rnn_frac_early": 0.4472929189032214,
+    "rnn_frac_late": 0.16218672729310124,
+    "rnn_frac_delta": -0.2851061916101202,
+    "disturb": {
+      "rnn_survived": 0,
+      "rnn_total": 0,
+      "ff_survived": 0,
+      "ff_total": 0,
+      "rnn_recovery": [],
+      "ff_recovery": []
+    },
+    "mobility": {
+      "rnn_mean": 0,
+      "ff_mean": 0,
+      "rnn_n": 0,
+      "ff_n": 0
+    },
+    "seed": 0
+  },
+  {
+    "ticks_ran": 3591,
+    "final_pop": 0,
+    "rnn_frac_early": 0.507776979226255,
+    "rnn_frac_late": 0.0,
+    "rnn_frac_delta": -0.507776979226255,
+    "disturb": {
+      "rnn_survived": 0,
+      "rnn_total": 0,
+      "ff_survived": 0,
+      "ff_total": 0,
+      "rnn_recovery": [],
+      "ff_recovery": []
+    },
+    "mobility": {
+      "rnn_mean": 0,
+      "ff_mean": 0,
+      "rnn_n": 0,
+      "ff_n": 0
+    },
+    "seed": 1
+  },
+  {
+    "ticks_ran": 12000,
+    "final_pop": 10,
+    "rnn_frac_early": 0.4677138444873207,
+    "rnn_frac_late": 0.0,
+    "rnn_frac_delta": -0.4677138444873207,
+    "disturb": {
+      "rnn_survived": 0,
+      "rnn_total": 0,
+      "ff_survived": 0,
+      "ff_total": 0,
+      "rnn_recovery": [],
+      "ff_recovery": []
+    },
+    "mobility": {
+      "rnn_mean": 0,
+      "ff_mean": 0.0095,
+      "rnn_n": 0,
+      "ff_n": 10
+    },
+    "seed": 2
+  },
+  {
+    "ticks_ran": 1161,
+    "final_pop": 0,
+    "rnn_frac_early": 0.42611483715096793,
+    "rnn_frac_late": 0.04977914642359229,
+    "rnn_frac_delta": -0.37633569072737566,
+    "disturb": {
+      "rnn_survived": 0,
+      "rnn_total": 0,
+      "ff_survived": 0,
+      "ff_total": 0,
+      "rnn_recovery": [],
+      "ff_recovery": []
+    },
+    "mobility": {
+      "rnn_mean": 0,
+      "ff_mean": 0,
+      "rnn_n": 0,
+      "ff_n": 0
+    },
+    "seed": 3
+  },
+  {
+    "ticks_ran": 6000,
+    "final_pop": 0,
+    "rnn_frac_early": 0.552589139565862,
+    "rnn_frac_late": 0.0,
+    "rnn_frac_delta": -0.552589139565862,
+    "disturb": {
+      "rnn_survived": 0,
+      "rnn_total": 0,
+      "ff_survived": 0,
+      "ff_total": 0,
+      "rnn_recovery": [],
+      "ff_recovery": []
+    },
+    "mobility": {
+      "rnn_mean": 0,
+      "ff_mean": 0,
+      "rnn_n": 0,
+      "ff_n": 0
+    },
+    "seed": 4
+  }
+]
